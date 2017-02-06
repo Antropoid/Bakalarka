@@ -1,0 +1,12 @@
+C:\Users\Vase\GIT\Bakalarka\Bakalarska Prace\Bakalarska Prace\bin\Debug\Bakalarska Prace.exe.config
+C:\Users\Vase\GIT\Bakalarka\Bakalarska Prace\Bakalarska Prace\bin\Debug\Bakalarska Prace.exe
+C:\Users\Vase\GIT\Bakalarka\Bakalarska Prace\Bakalarska Prace\bin\Debug\Bakalarska Prace.pdb
+C:\Users\Vase\GIT\Bakalarka\Bakalarska Prace\Bakalarska Prace\bin\Debug\MetroFramework.dll
+C:\Users\Vase\GIT\Bakalarka\Bakalarska Prace\Bakalarska Prace\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Vase\GIT\Bakalarka\Bakalarska Prace\Bakalarska Prace\obj\Debug\Bakalarska Prace.csprojResolveAssemblyReference.cache
+C:\Users\Vase\GIT\Bakalarka\Bakalarska Prace\Bakalarska Prace\obj\Debug\Bakalarska_Prace.Properties.Resources.resources
+C:\Users\Vase\GIT\Bakalarka\Bakalarska Prace\Bakalarska Prace\obj\Debug\Bakalarska Prace.csproj.GenerateResource.Cache
+C:\Users\Vase\GIT\Bakalarka\Bakalarska Prace\Bakalarska Prace\obj\Debug\Bakalarska Prace.exe
+C:\Users\Vase\GIT\Bakalarka\Bakalarska Prace\Bakalarska Prace\obj\Debug\Bakalarska Prace.pdb
+C:\Users\Vase\GIT\Bakalarka\Bakalarska Prace\Bakalarska Prace\bin\Debug\MetroFramework.Design.dll
+C:\Users\Vase\GIT\Bakalarka\Bakalarska Prace\Bakalarska Prace\obj\Debug\Bakalarska_Prace.Main.resources
